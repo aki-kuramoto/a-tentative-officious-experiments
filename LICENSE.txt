@@ -1,0 +1,45 @@
+TKL-2018 version: 0.1
+
+Copyright (c) 2018 Takel Hinomoto (aki-kuramoto)
+
+Permission is granted by the following conditions.
+It is granted to any existence whom accept the conditions.
+The existence whom obtains a copy of this product and/or associated documentation files (the "Product") and accepts the condition is granted the permission.
+
+It is granted for dealin the Product without restriction.
+It is granted with free of charge.
+It is including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Product.
+
+And to permit persons to whom the Product is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Product.
+
+The Product is provided "as is".
+This means that the Product is provided without warranty of any kind.
+The warranty contains warranty of express or implied.
+And the warranty is not limited to the warranties of merchantability.
+
+You can fork the Product freely.
+When you fork it, your derivation part belongs to you.
+You don't need to open source about that.
+Although, you cannot monopoly the original part.
+
+Sometimes The product will be updated with changing this license itself.
+
+Special instructions:
+I always welcome you to tell me better English. 
+Anyway I believe you don't abuse this point!!!
+
+
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT:
+In any case, The authors or copyright holders not be liable.
+The any case contains a case for any claim.
+The any case contains a case for any damages.
+The any case contains a case for other liability.
+The liability is regardless of an action of contract.
+The liability is regardless of tort or otherwise.
+The any case contains a case of arising from out of connection with the Product.
+The any case also contains a case of arising from in connection with the Product.
+The any case contains  the use in the Product.
+The any case also contains other dealings in the Product.
+
